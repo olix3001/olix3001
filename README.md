@@ -26,7 +26,10 @@
 Currently I don't have any bigger projects that are worth noticing
 
 <h3>Contact</h3>
-    <a href="mailto:olix3001@gmail.com">
-      <img align="left" alt="olix3001's gmail" src="https://img.shields.io/badge/-olix3001@gmail.com-EA4335?style=flat-                      square&logo=Gmail&logoColor=white" />
-    </a>
-    
+<a href="mailto:olix3001@gmail.com">
+  <img align="left" alt="olix3001's gmail" src="https://img.shields.io/badge/-olix3001@gmail.com-EA4335?style=flat-                      square&logo=Gmail&logoColor=white" />
+</a>
+
+<br/>
+<h3>Metrics</h3>
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
