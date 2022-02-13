@@ -23,7 +23,7 @@
 </p>
 
 <h3>What I'm working on now</h3>
-Currently, I'm developing the C$ programming language in C++ and I'm working on many side projects.
+Currently I don't have any bigger projects that are worth noticing
 
 <h3>Contact</h3>
     <a href="mailto:olix3001@gmail.com">
