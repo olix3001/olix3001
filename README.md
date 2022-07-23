@@ -23,7 +23,10 @@
 </p>
 
 <h3>What I'm working on now</h3>
-Currently I don't have any bigger projects that are worth noticing
+Currently I'm working on two main projects:
+
+- xAlgs: Web application for learning algorithms.
+- Arclight: New programming language.
 
 <h3>Contact</h3>
 <a href="mailto:olix3001@gmail.com">
