@@ -24,10 +24,9 @@
 </p>
 
 <h3>What I'm working on now</h3>
-Currently I'm working on two main projects:
+Currently I'm working on these projects:
 
-- xAlgs: Web application for learning algorithms.
-- Arclight: New programming language.
+- Scratchlet - Programming language that compiles into Scratch 3 blocks.
 
 <h3>Contact</h3>
 <a href="mailto:olix3001@gmail.com">
