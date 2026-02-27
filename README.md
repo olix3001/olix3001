@@ -51,3 +51,14 @@ Here are some example tools and languages I use on daily basis:
   <img src="https://github-readme-stats.vercel.app/api?username=olix3001&show_icons=true&theme=aura" alt="Github User Stats" />
 
 </details>
+
+---
+### :phone: Contact
+If you want to contact me, the preferred way is to create
+issue on [this readme's](https://github.com/olix3001/olix3001/issues) repository.
+
+You can also contact me via email (this email will change soon): olix3001@gmail.com
+
+---
+### :coffee: Like my work?
+*Buy me a coffee or Ko-Fi link will appear here soon*
