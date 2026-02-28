@@ -61,4 +61,4 @@ You can also contact me via email (this email will change soon): olix3001@gmail.
 
 ---
 ### :coffee: Like my work?
-*Buy me a coffee or Ko-Fi link will appear here soon*
+<p><a href="https://www.buymeacoffee.com/oliwiermichalik"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="InfoX1337" /></a></p>
